@@ -4,6 +4,7 @@
   "description": "CareerAI backend server",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'No build step required for the Node.js server'",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
